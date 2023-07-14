@@ -1,0 +1,4 @@
+Billet : <i class="fas fa-money-bill-wave"></i>
+Famille : <i class="fas fa-child"></i>
+Coeur : <i class="fas fa-heart"></i>
+Chien : <i class="fas fa-dog"></i>
